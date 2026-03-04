@@ -5,6 +5,9 @@ This is my second website built using pure HTML and CSS.
 It is a personal portfolio template designed for a web developer.  
 Compared to my first project, this one focuses more on layout organization, cleaner styling, and better visual structure.
 
+<img width="1899" height="929" alt="image" src="https://github.com/user-attachments/assets/f76e120a-debb-41d9-9467-d8e3879acfc2" />
+
+
 ## 🚀 Project Overview
 
 The website includes:
